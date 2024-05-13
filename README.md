@@ -154,8 +154,8 @@ pitch_type_outcome_percentage = pitch_outcome / pitch_outcome.sum(axis=1)
 
 # 結果を表示
 print("各球種ごとの打者の結果の割合:\n", pitch_type_outcome_percentage)
-コードは注意してご使用ください。
-content_copy
+
+*大谷選手についても同様の操作を行い、両者の特徴を比較します。
 
 10. まとめ
 
