@@ -120,7 +120,7 @@ print("ファストボール平均球速:", fastball_velocity, "rpm")
 print("ファストボール平均ライズ量:", fastball_rise, "インチ")
 print("カーブ平均球速:", curveball_velocity, "rpm")
 print("カーブ平均変化量:", curveball_break, "インチ")
-コードは注意してご使用ください。
+
 content_copy
 結果:
 
@@ -141,7 +141,7 @@ plt.title('Pitch Location and Velocity')
 plt.xlabel('Release Position X')
 plt.ylabel('Release Position Y')
 plt.show()
-コードは注意してご使用ください。
+
 content_copy
 9. 投球と打者の結果
 
@@ -179,8 +179,3 @@ print("各球種ごとの打者の結果の割合:\n", pitch_type_outcome_percen
 分析に使用しているデータは、公表されているデータであり、完全ではない可能性があります。
 分析結果は、藤波選手の投球能力を完全に反映しているものではありません。
 
-# その他
-藤波選手の投球フォームやトレーニング方法に関する情報も参考になるかもしれません。
-藤波選手へのインタビュー記事なども参考になるかもしれません。
-ご質問
-ご質問やご意見がありましたら、お気軽にお問い合わせください。
